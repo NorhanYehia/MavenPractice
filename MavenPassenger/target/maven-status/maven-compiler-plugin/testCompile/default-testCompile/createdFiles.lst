@@ -1,0 +1,4 @@
+org\example\AppTest.class
+mavenTest\SeleniumTest.class
+mavenTest\RESTAPITest.class
+mavenTest\AppiumTest.class
